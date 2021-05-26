@@ -1,4 +1,4 @@
-## terragrunt-samples
+## Terragrunt samples
 ___
 1. https://terragrunt.gruntwork.io/docs/getting-started/quick-start/
 2. https://itnext.io/terragrunt-the-glue-around-terraform-ae15e2addb66
